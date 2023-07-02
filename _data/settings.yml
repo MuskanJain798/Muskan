@@ -1,13 +1,13 @@
 #-------------------------------
 # General Site Settings
-title: Prajakta Ghumatkar
+title: Muskan Jain
 
 #-------------------------------
 # Author Settings
 author:
-  name: Prajakta Ghumatkar
+  name: Muskan Jain
   image: ProfessionalPhoto.png
-  say-hello: Hello, I’m <strong>Prajakta Ghumatkar</strong>
+  say-hello: Hello, I’m <strong>Muskan Jain</strong>
   bio: Hi, I am a <strong>data analytics </strong> enthusiast pursuing a Master's degree in Data Science from Northeastern University. With a strong passion for utilizing data to drive business solutions and improve decision-making, I am eager to jumpstart my career in the field of data science. You can read more about me in the 'About Me' section.
 
 #-------------------------------
