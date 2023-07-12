@@ -5,6 +5,7 @@ permalink: /about/
 ---
 Hey there!
 
+
 I'm Muskan, a dedicated and results-driven data scientist with a passion for leveraging data analytics to derive meaningful insights and drive decision-making. My expertise lies in developing end-to-end data solutions and applying advanced analytics techniques to solve complex problems. With a strong background in computer science and hands-on experience in various programming languages and tools, I am equipped to tackle data challenges and deliver impactful results.
 
 <strong>EDUCATION:</strong>
