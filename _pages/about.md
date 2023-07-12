@@ -4,16 +4,31 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Prajakta Ghumatkar. I am a data analytics enthusiast pursuing a Master's degree in Data Science from Northeastern University. With a strong passion for utilizing data to drive business solutions and improve decision-making, I am eager to jumpstart my career in the field of data science.
+Hey there!
 
-I have a Bachelor's degree in Information Technology, which provided me with a solid foundation in programming and database management. During my studies, I developed a deep interest in data analysis and visualization, leading me to specialize in data science.
+I'm Muskan, a dedicated and results-driven data scientist with a passion for leveraging data analytics to derive meaningful insights and drive decision-making. My expertise lies in developing end-to-end data solutions and applying advanced analytics techniques to solve complex problems. With a strong background in computer science and hands-on experience in various programming languages and tools, I am equipped to tackle data challenges and deliver impactful results.
 
-In my Master's program, I have honed my skills in statistical modeling, machine learning, and data visualization. I have worked on various projects, including but not limited to recommendation systems  and predictive models to analyze consumer behavior. My academic experiences have further solidified my belief in the power of data to solve real-world problems.
+<strong>EDUCATION:</strong>
 
-Although I do not have any prior work experience in the industry, I am a quick learner and have a strong desire to contribute to organizations using my skills and knowledge. I am confident that my educational background and passion for data analytics will make me a valuable asset to any team.
+I recently completed my Master of Science in Computer Science from The Ohio State University, where I focused on expanding my knowledge in data science and honing my analytical skills. During my studies, I maintained a GPA of 3.7/4, demonstrating my commitment to academic excellence. Prior to my master's degree, I earned my Bachelor's degree in Electronics & Telecommunications from Pune Institute of Computer Technology in India, achieving a CGPA of 9.1/10.
 
-In my free time, I enjoy a variety of interests including reading in libraries, writing poetry, and café hopping. I love immersing myself in books and find that reading expands my knowledge and provides a much-needed escape. Poetry writing allows me to express my thoughts and emotions through words, while cafe hopping gives me the chance to relax and enjoy a good cup of coffee while reflecting or reading. These activities balance my passion for knowledge and creativity with a much-needed break from the fast-paced world of data science.
+<strong>WORK EXPERIENCE:</strong>
 
-I am eager to apply my skills and knowledge to real-world problems and be a part of a dynamic and innovative team that values data-driven decision making.
+In my current role as a Graduate Research Associate at the Department of Emergency Medicine - Wexner Medical Center, I have successfully led the development and implementation of an end-to-end pipeline for the 911-AI-PREDICT research project. I engineered a reliable pipeline that transformed over 10,000 raw 911 audio calls into organized transcripts, reducing transcription time by 50%. Additionally, I designed and implemented a code solution for efficient extraction of addresses from complex data. I utilized SQL techniques and data analysis tools to derive valuable insights for decision-making purposes.
+
+During my tenure as Event Head at the IEEE Technical Event - RoboLIGA, I supervised and mentored a team of 10 junior members, ensuring the successful execution of tasks. I spearheaded the creation of an innovative online scoring application that revolutionized the tracking system, resulting in increased event engagement.
+
+<strong>ACADEMIC PROJECTS:</strong>
+
+In my academic projects, I developed an integrated data analysis framework for complex high-dimensional data and contributed to enhancing database performance and data-driven decision-making. I also developed a real-time interactive dashboard using D3.js, HTML, and CSS to enhance situational awareness through crowdsourcing earthquake crisis reports.
+
+I possess strong analytical skills, proficiency in programming languages such as Python, SQL, MATLAB, Java, and HTML, and experience with tools and libraries like TensorFlow, Scikit-learn, Pandas, and Matplotlib. I am a strong communicator, able to effectively convey technical concepts to both technical and non-technical stakeholders.
+
+
+I'm excited to contribute my expertise to challenging projects and make a positive impact as a data scientist. Let's connect and discuss how I can add value to your team or organization.
+
+
+
+
 
 
